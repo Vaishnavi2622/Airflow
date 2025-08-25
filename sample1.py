@@ -1,6 +1,7 @@
 student_name='vaishnavi'
 cell_phone=3456
 print(student_name)
+print(cell_phone)
 # 3 ways
 print('Hi',student_name,'welcome')
 print('Hi '+student_name+' welcome') # concatenation
